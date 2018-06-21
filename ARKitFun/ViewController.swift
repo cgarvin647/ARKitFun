@@ -10,8 +10,6 @@ import UIKit
 import ARKit
 
 class ViewController: UIViewController {
-    
-    //test
 
     @IBOutlet weak var sceneView: ARSCNView!
     
@@ -41,6 +39,8 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    //test
 }
 
 
